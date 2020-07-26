@@ -26,7 +26,7 @@ SECRET_KEY = 'j)$p+r4@ke9y7k)&#d%j$)98-x0qv8#op$alw9)$r3)21yc87r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['milka-django-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['milka-django-todo-app.herokuapp.com']
 
 
 # Application definition
